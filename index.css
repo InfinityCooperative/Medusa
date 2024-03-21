@@ -29,10 +29,6 @@ body{
     height: 40px;
     margin: 20px;
 }
-.referencia{
-    position: relative;
-    height: 25px;
-}
 .cooperacao1{
     position: relative;
     margin: 10px;
@@ -47,4 +43,12 @@ body{
     position: relative;
     margin: 10px;
     color: white;
+}
+.slogan{
+    position: relative;
+    height: 65px;
+}
+.referencia{
+    position: relative;
+    height: 25px;
 }
