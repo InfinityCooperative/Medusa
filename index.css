@@ -21,8 +21,7 @@ body{
       margin-left: 80%;
       margin-top: 10px;
   }
-logo{
-    margin-top: 0px;
+.logo{
     position: relative;
     height: 200px;
 }
