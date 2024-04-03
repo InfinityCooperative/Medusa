@@ -27,10 +27,10 @@ body{
 }
 .rodape{
     background-color: black;
-    border-radius: 5px;
     border-width: 0.7px;
     border-style: solid;
     border-color: #000;
+    border-radius: 5px;
     height: auto;
 }
 .imagem{
